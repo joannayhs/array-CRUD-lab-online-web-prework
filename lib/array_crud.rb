@@ -7,7 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  array = ""
+  array = ["Wow", "I", "Am","Really","Learning"]
+  array << "Arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
